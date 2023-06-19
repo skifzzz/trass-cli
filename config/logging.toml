@@ -1,0 +1,53 @@
+# [[log]]
+# path="trass_core::data_access"
+# level="Trace"
+
+[[log]]
+path="trass_core::data_access::import_order_history_from"
+level="Info"
+
+[[log]]
+path="trass_core::data_access::import::order_history::csv"
+level="Warn"
+
+[[log]]
+path="trass_core::data_access::import::order_history::csv::data"
+level="Warn"
+
+[[log]]
+path="trass_core::data_access::import::order_history"
+level="Warn"
+
+[[log]]
+path="trass_core::data_access::repository::order_history"
+level="Warn"
+# level="Trace"
+
+[[log]]
+path="trass_core::data_access::repository"
+level="Warn"
+
+[[log]]
+path="trass_core::data_access::repository::surreal::repository"
+level="Info"
+
+
+
+[[log]]
+path="surrealdb::dbs"
+level="Warn"
+
+[[log]]
+path="hyper"
+level="Info"
+
+[[log]]
+path="reqwest"
+level="Info"
+
+[[log]]
+path="tracing"
+level="Info"
+# [[log]]
+# path="trass_core::config"
+# level="Warn"

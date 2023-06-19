@@ -1,0 +1,5 @@
+path="memory"
+# path="file://trass.db"
+namespace="trass"
+username="admin"
+password="admin"
